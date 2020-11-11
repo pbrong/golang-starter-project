@@ -1,0 +1,4 @@
+server:
+  name: golang-starter-demo
+  port: 8804
+  enable: true
